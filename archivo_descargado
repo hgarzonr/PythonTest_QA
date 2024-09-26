@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+
+<html>
+  <head>
+    <script src="/js/vendor/298279967.js"></script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>The Internet</title>
+    <link href="/css/app.css" rel="stylesheet">
+    <link href="/css/font-awesome.css" rel="stylesheet">
+    <script src="/js/vendor/jquery-1.11.3.min.js"></script>
+    <script src="/js/vendor/jquery-ui-1.11.4/jquery-ui.js"></script>
+    <script src="/js/foundation/foundation.js"></script>
+    <script src="/js/foundation/foundation.alerts.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </head>
+  <body>
+    <div class="row">
+      <div id="flash-messages" class="large-12 columns">
+      
+        
+      
+        
+      
+        
+      
+      </div>
+    </div>
+    <div class="row">
+      <a href="https://github.com/tourdedave/the-internet"><img style="position: absolute; top: 0; right: 0; border: 0;" src="/img/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>
+      <div id="content" class="large-12 columns">
+        <div class="example">
+  <h3>File Downloader</h3>
+  
+    <a href="download/LD.png">LD.png</a>
+    </br>
+  
+    <a href="download/spectrum-logo.png">spectrum-logo.png</a>
+    </br>
+  
+    <a href="download/1-1500141.webp">1-1500141.webp</a>
+    </br>
+  
+    <a href="download/upload-me.txt">upload-me.txt</a>
+    </br>
+  
+    <a href="download/math.docx">math.docx</a>
+    </br>
+  
+    <a href="download/some-file.txt">some-file.txt</a>
+    </br>
+  
+    <a href="download/responseBodyMockExample.json">responseBodyMockExample.json</a>
+    </br>
+  
+    <a href="download/menu.pdf">menu.pdf</a>
+    </br>
+  
+    <a href="download/random_data.txt">random_data.txt</a>
+    </br>
+  
+    <a href="download/20MB.bin">20MB.bin</a>
+    </br>
+  
+    <a href="download/09a8398c-7739-45d0-b7b1-9e3a52542db9.pdf">09a8398c-7739-45d0-b7b1-9e3a52542db9.pdf</a>
+    </br>
+  
+    <a href="download/Upload.png">Upload.png</a>
+    </br>
+  
+    <a href="download/math.odt">math.odt</a>
+    </br>
+  
+    <a href="download/selenium-snapshot.png">selenium-snapshot.png</a>
+    </br>
+  
+    <a href="download/ekko.png">ekko.png</a>
+    </br>
+  
+    <a href="download/f9461d2d-e698-48a5-a6d1-33022caf3116.pdf">f9461d2d-e698-48a5-a6d1-33022caf3116.pdf</a>
+    </br>
+  
+    <a href="download/gol_voo_compensa.jpg">gol_voo_compensa.jpg</a>
+    </br>
+  
+    <a href="download/LambdaTest.txt">LambdaTest.txt</a>
+    </br>
+  
+    <a href="download/logo-TAU.png">logo-TAU.png</a>
+    </br>
+  
+    <a href="download/Marwan El-Sayed -CV.pdf">Marwan El-Sayed -CV.pdf</a>
+    </br>
+  
+    <a href="download/file.json">file.json</a>
+    </br>
+  
+</div>
+
+      </div>
+    </div>
+    <div id='page-footer' class="row">
+      <div class="large-4 large-centered columns">
+        <hr>
+        <div style="text-align: center;">Powered by <a target="_blank" href="http://elementalselenium.com/">Elemental Selenium</a></div>
+      </div>
+    </div>
+  </body>
+</html>
